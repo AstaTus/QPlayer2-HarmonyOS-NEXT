@@ -1,7 +1,11 @@
 import { PlaySpeed, QPlayerSettingModel } from '../../model/longVideo/QPlayerSettingModel';
 import dataPreferences from '@ohos.data.preferences';
 import { Context } from '@kit.AbilityKit';
+<<<<<<< HEAD
 import { QBlindType, QPlayerDecoderPriority, QPlayerSeek, QRenderRatio } from '@QN/QPlayer2-core/qplayer2-core';
+=======
+import { QPlayerSeek } from '@qiniu/qplayer2-core/qplayer2-core';
+>>>>>>> d8985e7 (修改依赖远端qplayer2-core)
 
 export class QSettingPersistentStorageHelper{
   static save(context : Context,settingModel : QPlayerSettingModel){

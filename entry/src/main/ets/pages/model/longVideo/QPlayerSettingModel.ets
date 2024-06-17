@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 import {
   QBlindType,
   QPlayerDecoderPriority, QPlayerSeek, QRenderRatio } from '@QN/QPlayer2-core/qplayer2-core'
+=======
+import { QPlayerSeek } from '@qiniu/qplayer2-core/qplayer2-core'
+>>>>>>> d8985e7 (修改依赖远端qplayer2-core)
 import { QSettingPersistentStorageHelper } from '../../common/helper/QSettingPersistentStorageHelper'
 import { Context } from '@ohos.abilityAccessCtrl'
 import { QPlayerDecoderType } from '@QN/QPlayer2-core/src/main/ets/public/enums/QPlayerDecoderType'

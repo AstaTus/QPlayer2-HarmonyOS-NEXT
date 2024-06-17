@@ -18,12 +18,17 @@ import { QPlayerContextFactory, QIPlayerContext, QLogLevel,
   QIPlayerMediaNetworkListener,
   QPlayerOpenError,
   QPlayerUrlType,
+<<<<<<< HEAD
   QIPlayerSeekListener,
   QIPlayerVideoDecodeListener,
   QIPlayerSpeedListener} from '@QN/QPlayer2-core/qplayer2-core'
 import { QPlayerState } from '@QN/QPlayer2-core/src/main/ets/public/enums/QPlayerState'
 import { QVideoType } from '@QN/QPlayer2-core/src/main/ets/public/listeners/QIPlayerVideoDataListener'
 import { QPlayerDecoderType } from '@QN/QPlayer2-core/src/main/ets/public/enums/QPlayerDecoderType'
+=======
+  QIPlayerSeekListener} from '@qiniu/qplayer2-core/qplayer2-core'
+import { QPlayerState } from '@qiniu/qplayer2-core/src/main/ets/public/enums/QPlayerState'
+>>>>>>> d8985e7 (修改依赖远端qplayer2-core)
 
 
 @Entry
