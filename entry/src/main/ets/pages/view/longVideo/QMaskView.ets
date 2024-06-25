@@ -24,6 +24,7 @@ export struct QMaskView{
     onStateChange :(context: QIPlayerContext , state : QPlayerState)=>{
       if (state == QPlayerState.RELEASE) {
         console.log(`qplayerstate : release`);
+        router.back()
       }
     }
   }
@@ -43,7 +44,7 @@ export struct QMaskView{
         })
         .onClick(()=>{
           if (this.mDeviceOrientation == window.Orientation.PORTRAIT) {
-            router.back()
+            this.mPlayerContext.get_control_handler().release()
           }else {
             window.getLastWindow(getContext(this) as common.UIAbilityContext).then(res => {
               res.setPreferredOrientation(window.Orientation.PORTRAIT, (err) => {
@@ -159,7 +160,6 @@ export struct QMaskView{
     this.mPlayerContext.get_control_handler().addPlayerStateListener(this.mStateCallBack)
   }
   aboutToDisappear(): void {
-    this.mPlayerContext.get_control_handler().release()
   }
   orientationChange(){
     if (this.mDeviceOrientation == window.Orientation.PORTRAIT) {
