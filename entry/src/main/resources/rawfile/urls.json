@@ -1,7 +1,7 @@
 [
     {
         "name" : "1.点播-qiniu-2023.mp4",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -57,7 +57,7 @@
     },
     {
         "name" : "2.点播-音视频分离-only-video-1080p-60fps.m4s",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -83,7 +83,7 @@
     },
     {
         "name" : "3.点播-short-video-nike.mp4",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -99,7 +99,7 @@
     },
     {
         "name" : "4.点播-http-mp3-纯音频",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -115,7 +115,7 @@
     },
     {
         "name" : "5.点播-纯音频-音频卡顿-wav",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -131,7 +131,7 @@
     },
     {
         "name" : "6.点播-纯视频-only-video-1080p-60fps.m4s",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -147,7 +147,7 @@
     },
     {
         "name" : "7.点播-http-bbk-mp4-50fps",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -163,7 +163,7 @@
     },
     {
         "name" : "8.点播-http-mp4-60fps-音画同步测试",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -179,7 +179,7 @@
     },
     {
         "name" : "9.点播-https-mp4-25fps-端口443",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -195,7 +195,7 @@
     },
     {
         "name" : "10.直播-多码率-hugo-rtmp-zengtext",
-        "isLive": 1,
+        "isLive": true,
         "streamElements": [
             {
                 "userType": "",
@@ -241,7 +241,7 @@
     },
     {
         "name" : "11.直播-多码率-hugo-rtmp-test6666",
-        "isLive": 1,
+        "isLive": true,
         "streamElements": [
             {
                 "userType": "",
@@ -287,7 +287,7 @@
     },
     {
         "name" : "13.直播-zn-多码率-rtmp-test6666",
-        "isLive": 1,
+        "isLive": true,
         "streamElements": [
             {
                 "userType": "",
@@ -333,7 +333,7 @@
     },
     {
         "name" : "14.直播-多码率-sdk-live-6666",
-        "isLive": 1,
+        "isLive": true,
         "streamElements": [
             {
                 "userType": "",
@@ -379,7 +379,7 @@
     },
     {
         "name" : "15.直播-http-6666",
-        "isLive": 1,
+        "isLive": true,
         "streamElements": [
             {
                 "userType": "",
@@ -395,7 +395,7 @@
     },
     {
         "name" : "16.点播-ppt-直播回放-zhiniao",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -413,7 +413,7 @@
     
     {
         "name" : "17.直播-http-flv-6666",
-        "isLive": 1,
+        "isLive": true,
         "streamElements": [
             {
                 "userType": "",
@@ -429,7 +429,7 @@
     },
     {
         "name" : "19.点播-https-flv-30fps-H264",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -445,7 +445,7 @@
     },
     {
         "name" : "20.点播-https-mp4-30fps-竖屏",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -461,7 +461,7 @@
     },
     {
         "name" : "22.点播-https-mp4-30fps-旋转180度",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -477,7 +477,7 @@
     },
     {
         "name" : "23.点播-https-mp4-30fps-非正常比例",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -493,7 +493,7 @@
     },
     {
         "name" : "24.点播-https-wma-30fps-不支持的封装格式",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -509,7 +509,7 @@
     },
     {
         "name" : "25.点播-https-flv-FLV1-不支持的编码格式",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -525,7 +525,7 @@
     },
     {
         "name" : "26.点播-https-mp4-不支持的像素格式-yuvj420p",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -541,7 +541,7 @@
     },
     {
         "name" : "29.点播-电影-http-mp4",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -557,7 +557,7 @@
     },
     {
         "name" : "33.点播-https-m4s-30fps-4K-8534kb",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -573,7 +573,7 @@
     },
     {
         "name" : "35.直播-纯音频-rtmp-audio-only",
-        "isLive": 1,
+        "isLive": true,
         "streamElements": [
             {
                 "userType": "",
@@ -589,7 +589,7 @@
     },
     {
         "name" : "36.直播-纯音频-http-m3u8-audio-only",
-        "isLive": 1,
+        "isLive": true,
         "streamElements": [
             {
                 "userType": "",
@@ -606,7 +606,7 @@
     {
 
         "name" : "37.直播-纯音频-http-flv-audio-only",
-        "isLive": 1,
+        "isLive": true,
         "streamElements": [
             {
                 "userType": "",
@@ -622,7 +622,7 @@
     },
     {
         "name" : "38.直播-纯视频-rtmp-video-only",
-        "isLive": 1,
+        "isLive": true,
         "streamElements": [
             {
                 "userType": "",
@@ -638,7 +638,7 @@
     },
     {
         "name" : "39.直播-纯视频-http-m3u8-video-only",
-        "isLive": 1,
+        "isLive": true,
         "streamElements": [
             {
                 "userType": "",
@@ -654,7 +654,7 @@
     },
     {
         "name" : "40.直播-纯视频-http-flv-video-only",
-        "isLive": 1,
+        "isLive": true,
         "streamElements": [
             {
                 "userType": "",
@@ -670,7 +670,7 @@
     },
     {
         "name" : "41.点播-纯音频-http-wav-only-audio",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -686,7 +686,7 @@
     },
     {
         "name" : "42.点播-纯音频-http-flac-audio-only-flac",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -702,7 +702,7 @@
     },
     {
         "name" : "44.直播-5.1声道-cici声-rtmp-Hera",
-        "isLive": 1,
+        "isLive": true,
         "streamElements": [
             {
                 "userType": "",
@@ -718,7 +718,7 @@
     },
     {
         "name" : "45.直播-硬解崩溃-http-cc441e8f1669371377",
-        "isLive": 1,
+        "isLive": true,
         "streamElements": [
             {
                 "userType": "",
@@ -735,7 +735,7 @@
 
     {
         "name" : "47.点播-subtitle-http-mp4-EnglishVideo",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -751,7 +751,7 @@
     },
     {
         "name" : "48.点播-subtitle-http-MOV-EnglishVideo",
-        "isLive": 0,
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
@@ -766,8 +766,58 @@
         ]
     },
     {
-        "name" : "51.点播-qiniu-2023.mp4-本地文件",
-        "isLive": 0,
+        "name" : "49.点播-hls-加密视频",
+        "isLive": false,
+        "streamElements": [
+            {
+                "userType": "",
+                "urlType": 0,
+                "url": "https://kodo.koafun.com/qiniu-2023-1080p-new.m3u8?v=123123",
+                "quality": 360,
+                "isSelected": 1,
+                "backupUrl": "",
+                "referer": "",
+                "hlsDrmKey": "abcdefgh12345678"
+
+            }
+        ]
+    },
+    {
+        "name" : "50.点播-mp4-通用加密视频",
+        "isLive": false,
+        "streamElements": [
+            {
+                "userType": "",
+                "urlType": 0,
+                "url": "http://demovideos.qiniushawn.top/CENC_AES-CTR.mp4",
+                "quality": 720,
+                "isSelected": 1,
+                "backupUrl": "",
+                "referer": "",
+                "mp4DrmKey" : "c7e16c4403654b85847037383f0c2db3"
+            }
+        ]
+    },
+    {
+        "name" : "51.点播-mp4-七牛私有加密视频",
+        "isLive": false,
+        "streamElements": [
+            {
+                "userType": "",
+                "urlType": 0,
+                "url": "http://kodo.koafun.com/drm-16884581530881688458153078-new.mp4",
+                "quality": 960,
+                "isSelected": 1,
+                "backupUrl": "",
+                "referer": "",
+                "mp4QNDrmComKey" : "comnew",
+                "mp4QNDrmFileKey" : "filenew"
+            }
+        ]
+    },
+    {
+        "name" : "52.点播-qiniu-2023.mp4-本地文件",
+        "isLive": false,
         "streamElements": [
             {
                 "userType": "",
