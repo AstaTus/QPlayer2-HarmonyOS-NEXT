@@ -53,6 +53,18 @@
                 "referer": ""
                 
             }
+        ],
+        "subtitleElements": [
+            {
+                "name": "中文",
+                "url": "http://demovideos.qiniushawn.top/qiniu-2023-chinese.srt",
+                "isSelected": 1
+            },
+            {
+                "name": "英文",
+                "url": "http://demovideos.qiniushawn.top/qiniu-2023-english.srt",
+                "isSelected": 0
+            }
         ]
     },
     {
@@ -747,6 +759,13 @@
                 "referer": ""
                 
             }
+        ],
+        "subtitleElements": [
+            {
+                "name": "英文",
+                "url": "http://demovideos.qiniushawn.top/EnglishVideo.srt",
+                "isSelected": 1
+            }
         ]
     },
     {
@@ -763,7 +782,15 @@
                 "referer": ""
                 
             }
+        ],
+        "subtitleElements": [
+            {
+                "name": "英文",
+                "url": "http://demovideos.qiniushawn.top/EnglishVideo.srt",
+                "isSelected": 1
+            }
         ]
+
     },
     {
         "name" : "49.点播-hls-加密视频",
